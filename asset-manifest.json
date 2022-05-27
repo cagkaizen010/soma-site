@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/soma-site/static/css/main.2537ff95.css",
-    "main.js": "/soma-site/static/js/main.9f1fa037.js",
+    "main.js": "/soma-site/static/js/main.ef8fa807.js",
     "index.html": "/soma-site/index.html",
     "main.2537ff95.css.map": "/soma-site/static/css/main.2537ff95.css.map",
-    "main.9f1fa037.js.map": "/soma-site/static/js/main.9f1fa037.js.map"
+    "main.ef8fa807.js.map": "/soma-site/static/js/main.ef8fa807.js.map"
   },
   "entrypoints": [
     "static/css/main.2537ff95.css",
-    "static/js/main.9f1fa037.js"
+    "static/js/main.ef8fa807.js"
   ]
 }
